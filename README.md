@@ -1,6 +1,6 @@
 ![cover image](./cover.png)
 
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahul-nadola-a79a9088)
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-nadola-a79a9088)
 ![](https://komarev.com/ghpvc/?username=rnadola&color=green&style=for-the-badge)
 
 ### Hi there, I'm Rahul Nadola 🤠 🤟
@@ -15,11 +15,11 @@ My vision is "Empowering through tech knowledge and fitness for a brighter tomor
 * Data Analyst
 * Business Intelligence
 
-* ### 🛩️ Get in touch
+### 🛩️ Get in touch
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/rahul-nadola-a79a9088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rnadola" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-nadola-a79a9088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rnadola" height="30" width="40" /></a>
 
 
 
@@ -57,4 +57,4 @@ My vision is "Empowering through tech knowledge and fitness for a brighter tomor
 
 [Credly Link](https://www.credly.com/users/rahul-nadola/badges)
 
-Upcoming projects :
+Stay tuned for what's next! :
