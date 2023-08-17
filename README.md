@@ -47,7 +47,7 @@ My vision is "Empowering through tech knowledge and fitness for a brighter tomor
 ### Blog links
 <!-- BLOGPOSTS:START -->
  - 🚀 [Git and Github](https://geekygainswithrahul.hashnode.dev/git-and-github)
- - 🚀 [Setting up a repository](https://geekygainswithrahul.hashnode.dev/setting-up-a-repository))
+ - 🚀 [Setting up a repository](https://geekygainswithrahul.hashnode.dev/setting-up-a-repository)
  - 🚀 [Git basic commands](https://geekygainswithrahul.hashnode.dev/git-basic-commands)<!-- BLOGPOSTS:END -->
 
 
